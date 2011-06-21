@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/jefferson/Documentos/lib-HIBERNATE/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 17/06/2011 15:05:25 by Hibernate Tools 3.4.0.CR1 -->
+
+<hibernate-mapping>
+
+    <class name="dao.Pessoa">
+        <id name="id" type="java.lang.Long">
+            <generator class="increment"></generator>
+        </id>
+        <property name="nome"/>
+        <property name="telefone"/>
+        
+        <query name="findPersonByName">
+        	<![CDATA[ from Pessoa p where p.nome like :nome ]]>         
+        </query>
+             
+                  
+    </class>
+    
+</hibernate-mapping>
